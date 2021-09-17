@@ -1,5 +1,5 @@
 #  Tackkle - Project finance tracker 
-### Developed by React
+### Developed by ` Priyanka ` with React
 
 
 # Screenshot  :
