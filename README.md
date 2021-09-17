@@ -1,7 +1,6 @@
 #  Tackkle - Project finance tracker 
 ### Developed by React
 
-https://img.shields.io/wordpress/plugin/tested/Tackkle%20-%20Project%20finance%20tracker?color=red&label=react&logo=priyanka&logoColor=green
 
 # Screenshot  :
 
