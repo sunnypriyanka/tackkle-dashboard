@@ -1,3 +1,14 @@
+#  Tackkle - Project finance tracker 
+### Developed by React
+
+
+# Screenshot  :
+
+![tackkle dashboard](https://user-images.githubusercontent.com/88229034/133717227-03639963-fd95-4e6f-bc00-bf11d739c97d.PNG)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
